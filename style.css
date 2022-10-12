@@ -1,0 +1,45 @@
+
+#image_banner {
+    max-height:100%;
+    width:auto;
+}
+header {
+    height: 180px;
+    background-image: linear-gradient(to left, #ff0000, #a3a3a3, #050505);
+    background-repeat: no-repeat; 
+}
+body{
+    background-color: #a3a3a3;
+}
+
+#wrapper { background-color: #ff2d2d;
+    width: 80%;
+    height: 900px;
+    box-shadow: 3px 3px 3px #333;
+    margin-right: auto;
+    margin-left: auto; }
+
+h1{
+   float: right;
+}
+
+
+.unorderList { 
+    font-size: 2em;
+    width: 10%;
+    float: left;
+    margin-right: 20%;
+ }
+
+ .mission{
+    padding-top: 10px;
+    width: 50%;
+    float: right;
+    margin-left: 5%;
+    margin-bottom: 100px;
+    font-size: 2em;
+}
+.orderlist{
+    font-size: 2em;
+    float: left;
+}
